@@ -1,0 +1,12 @@
+{
+  "name": "gmdotnet/deployer-common",
+  "description": "Deployer common recipes",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Giuseppe Morelli",
+      "email": "info@giuseppemorelli.net"
+    }
+  ]
+}
